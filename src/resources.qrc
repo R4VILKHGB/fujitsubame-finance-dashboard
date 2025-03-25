@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CompaniesPage.qml</file>
+        <file>StatisticsPage.qml</file>
+        <file>icons/bars-solid.svg</file>
+        <file>icons/building-solid.svg</file>
+        <file>icons/chart-simple-solid.svg</file>
+        <file>icons/house-solid.svg</file>
+        <file>icons/plus-solid.svg</file>
+        <file>icons/toggle-off-solid.svg</file>
+        <file>icons/toggle-on-solid.svg</file>
+        <file>StyledButton.qml</file>
+        <file>icons/trash-solid.svg</file>
+        <file>SettingsPage.qml</file>
+        <file>icons/gear-solid.svg</file>
+        <file>WarningDialog.qml</file>
+        <file>SumPage.qml</file>
+        <file>icons/file-solid.svg</file>
+        <file>SettingsWarningDialog.qml</file>
+        <file>icons/circle-exclamation-solid.svg</file>
+    </qresource>
+</RCC>
